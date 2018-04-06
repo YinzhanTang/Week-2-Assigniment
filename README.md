@@ -1,4 +1,4 @@
-# Assignment 2: Welcome to Python
+#  Assignment 2: Welcome to Python
 
 Given a loan with value `l`, `p` periods, and per-period interest rate `r`, the period payment is given mathematically as:
 
